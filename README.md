@@ -1,2 +1,3 @@
-# 3D-PRINTER
-Diseños de Impresion 3D
+﻿# 3D-PRINTER
+Diseños de Impresion 3D:
+* Diseño de pieza para encoder de rueda
